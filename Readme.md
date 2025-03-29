@@ -1,0 +1,16 @@
+the dataset 
+![Screenshot 2025-03-29 165322](https://github.com/user-attachments/assets/743b70ec-86fc-4e9f-86cd-61b0d4907354)
+
+training phase 
+
+![Screenshot 2025-03-29 165355](https://github.com/user-attachments/assets/e3483629-c6f0-467e-8b41-2e3077b6049d)
+![Screenshot 2025-03-29 162013](https://github.com/user-attachments/assets/ddc5c444-c8c8-4355-a70c-475347a99d59)
+
+deploying
+![Screenshot 2025-03-29 162900](https://github.com/user-attachments/assets/36439058-d963-46f8-9462-ce704f976d3d)
+
+
+![Screenshot 2025-03-29 164957](https://github.com/user-attachments/assets/43f382e1-cd95-4e8b-9de1-12aae789e01c)
+
+
+![Screenshot 2025-03-29 165111](https://github.com/user-attachments/assets/b4ec5426-b7d9-4492-8364-1ef5a6cf09b8)
