@@ -1,3 +1,6 @@
+## in this first part i used automl and the second part will be a custom model 
+
+## AUTOML
 Classification Model with Vertex AI
 A machine learning classification project built and deployed using Google Cloud Platform’s Vertex AI.
 
@@ -30,3 +33,6 @@ deploying
 
 
 ![Screenshot 2025-03-29 165111](https://github.com/user-attachments/assets/b4ec5426-b7d9-4492-8364-1ef5a6cf09b8)
+
+
+## CUSTOM MODEL
