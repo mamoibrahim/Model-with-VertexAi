@@ -15,6 +15,11 @@ Purpose: Demonstrates the end-to-end process of training, validating, and deploy
 This project highlights the power of GCP's Vertex AI for building efficient and production-grade ML solutions.
 
 
+![image](https://github.com/user-attachments/assets/b657e0ca-88e7-4c0a-a1a1-b6ca40698fab)
+
+![image](https://github.com/user-attachments/assets/844bde34-d13e-44d6-acd5-2da388904f62)
+
+![image](https://github.com/user-attachments/assets/e08a4d65-de72-4631-8902-6de28719304c)
 
 
 the dataset 
